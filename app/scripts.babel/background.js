@@ -1,5 +1,4 @@
-'use strict';
-
+/* eslint no-console:0 */
 chrome.runtime.onInstalled.addListener(details => {
   console.log('previousVersion', details.previousVersion);
 });
