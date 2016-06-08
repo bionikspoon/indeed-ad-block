@@ -4,7 +4,7 @@
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Block indeed.com sponsored content",
+    "message": "Block indeed.com sponsored content.",
     "description": "The description of the application"
   }
 }
