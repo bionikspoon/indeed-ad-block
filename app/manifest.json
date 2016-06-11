@@ -1,10 +1,15 @@
 {
   "name": "__MSG_appName__",
+  "short_name":"__MSG_appShortName__",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "__MSG_appDescription__",
+  "author": "Manu Phatak <bionikspoon@gmail.com>",
+  "homepage_url":"https://github.com/bionikspoon/indeed-ad-block",
   "icons": {
     "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
     "128": "images/icon-128.png"
   },
   "default_locale": "en",
@@ -12,35 +17,14 @@
     "scripts": [
       "scripts/chromereload.js",
       "scripts/background.js"
-    ]
+    ],
+    "persistent": false
   },
   "permissions": [
     "tabs",
     "http://www.indeed.com/*",
-    "https://www.indeed.com/*",
-    "background",
-    "bookmarks",
-    "clipboardRead",
-    "clipboardWrite",
-    "contentSettings",
-    "cookies",
-    "*://*.google.com/",
-    "debugger",
-    "history",
-    "idle",
-    "management",
-    "notifications",
-    "pageCapture",
-    "topSites",
-    "storage",
-    "webNavigation",
-    "webRequest",
-    "webRequestBlocking"
+    "https://www.indeed.com/*"
   ],
-  "options_ui": {
-    "page": "options.html",
-    "chrome_style": true
-  },
   "content_scripts": [
     {
       "matches": [
@@ -54,16 +38,12 @@
       "all_frames": false
     }
   ],
-  "omnibox": {
-    "keyword": "OMNIBOX-KEYWORD"
-  },
   "page_action": {
     "default_icon": {
       "19": "images/icon-19.png",
       "38": "images/icon-38.png"
     },
-    "default_title": "indeed ad block",
-    "default_popup": "popup.html"
+    "default_title": "Indeed Ad Block"
   },
   "web_accessible_resources": [
     "images/icon-48.png"

@@ -1,10 +1,6 @@
 /* eslint no-console:0 */
-chrome.runtime.onInstalled.addListener(details => {
-  console.log('previousVersion', details.previousVersion);
-});
+chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
+  if (!tab.url.includes('www.indeed.com')) return;
 
-chrome.tabs.onUpdated.addListener(tabId => {
   chrome.pageAction.show(tabId);
 });
-
-console.log('\'Allo \'Allo! Event Page for Page Action');
