@@ -5,7 +5,7 @@
   },
   "appShortName": {
     "message": "IndeedAdBlock",
-    "description": "The name of the application"
+    "description": "The short name of the application"
   },
   "appDescription": {
     "message": "Block indeed.com sponsored content.",
