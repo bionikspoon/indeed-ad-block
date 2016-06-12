@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon--padding.svg"
+   inkscape:export-filename="/home/manu/Code/indeed-ad-block/app/images/icon-128--padding.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.9597981"
+     inkscape:cx="-8.2702806"
+     inkscape:cy="56.992411"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1682"
+     inkscape:window-height="787"
+     inkscape:window-x="141"
+     inkscape:window-y="214"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Manu Phatak &lt;bionikspoon@gmail.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Manu Phatak</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="FG"
+     style="display:inline"
+     transform="translate(0,-924.36218)">
+    <g
+       id="g4150" />
+    <g
+       transform="matrix(0.09375,0,0,0.09375,16,937.70322)"
+       style="display:inline"
+       inkscape:label="FG"
+       id="layer2-3">
+      <path
+         style="opacity:1;fill:#d32f2f;fill-opacity:1;stroke:none;stroke-width:6.57700014;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 307.72009,28.362183 -8e-7,331.47043 -8e-7,760.10875 296.70001,1052.3622 l 419.60007,0 L 1024,749.25393 1024,320.61561 727.28003,28.362183 l -419.55994,0 z"
+         id="path4170"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g4150-2" />
+      <g
+         transform="translate(-21.33819,0)"
+         id="g4303">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4157"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 462.36725,885.39793 0,-310.98197 c 8.87646,0.8501 17.31642,1.29124 26.21038,1.29124 42.23785,0 81.93592,-11.43737 115.73197,-31.67448 l 0,341.36521 c 0,29.15218 -6.73328,50.70306 -19.83825,65.05928 -13.08931,14.35989 -30.42136,21.54673 -51.55037,21.54673 -20.69067,0 -37.15423,-7.18684 -50.71548,-21.97041 -13.06909,-14.35118 -19.83825,-35.89607 -19.83825,-64.6356" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4163"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 463.22011,140.07632 c 87.87335,-31.67448 188.01304,-29.96967 263.24509,35.06571 13.92335,13.10541 29.96967,29.58827 36.28802,49.00744 7.64176,24.5198 -26.59682,-2.50437 -31.23793,-5.8956 -24.5244,-16.0647 -49.04421,-29.55611 -76.46815,-38.86591 C 507.1646,133.77635 367.30842,216.12631 280.25533,344.166 c -36.33765,56.59406 -59.97426,116.18416 -79.41214,181.69284 -2.12168,7.17305 -3.82693,16.46448 -7.62331,22.80121 -3.81255,7.18684 -1.66937,-19.46052 -1.66937,-20.27387 2.94201,-27.04714 8.44003,-53.26256 15.21073,-79.43203 40.13227,-139.45868 128.8548,-255.62446 256.45887,-308.87783" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4165"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 577.70039,486.12904 c -52.80305,27.04255 -117.45287,5.93236 -144.04925,-46.90285 -27.06321,-52.81684 -5.95026,-117.47541 46.88495,-144.08601 52.81956,-27.01039 117.47677,-5.8956 144.08737,46.91664 27.02785,52.78926 5.89836,117.44324 -46.92307,144.07222" />
+      </g>
+    </g>
+  </g>
+</svg>
