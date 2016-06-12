@@ -124,7 +124,7 @@ gulp.task('wiredep', () => {
 gulp.task('package', () => {
   const manifest = require('./dist/manifest.json'); // eslint-disable-line global-require
   return gulp.src('dist/**')
-    .pipe($.zip(`indeed ad block-${manifest.version}.zip`))
+    .pipe($.zip(`Indeed-Ad-Block-${manifest.version}.zip`))
     .pipe(gulp.dest('package'));
 });
 
